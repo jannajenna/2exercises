@@ -22,3 +22,4 @@ if (value) {
 } else {
     console.log("Value is falsy")
 }
+
